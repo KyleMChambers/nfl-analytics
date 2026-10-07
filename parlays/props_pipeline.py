@@ -24,12 +24,12 @@ import pandas as pd
 #  YOUR SETTINGS -- edit these, save, and run.
 # =====================================================================
 SEASON = 2026
-WEEK = 4
+WEEK = 5
 BANKROLL = 2000
 
 STAKE = 10               # dollars per parlay
-MIN_LEGS = 4
-MAX_LEGS = 6
+MIN_LEGS = 3
+MAX_LEGS = 5
 MIN_PAYOUT = 1_000       # skip parlays paying less than this on STAKE
 MAX_PAYOUT = 100_000     # skip parlays paying more than this on STAKE
 SORT_BY = "hit_chance"   # "hit_chance" or "edge"

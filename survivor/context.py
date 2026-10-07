@@ -1,10 +1,9 @@
 """
 context.py -- Everything you asked to see for each matchup.
 
-These are shown next to each pick as context and warning flags. They are
-NOT added on top of the win chance: tested on 2006-2025, none of them
-predicted winners beyond what the betting line already knew (see
-factor_test.py), so adding them would double-count.
+These are shown next to each pick as context. The ones that feed the grade
+(injuries, rest, back-to-back road, time zones, early West Coast games) are
+scored in grading.py; run backtest_grades.py to see how they've held up.
 """
 from __future__ import annotations
 import numpy as np
