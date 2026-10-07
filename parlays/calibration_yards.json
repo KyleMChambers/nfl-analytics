@@ -1,0 +1,31 @@
+{
+  "pass": {
+    "decay": 1.0,
+    "inj": 0.5,
+    "opp": 1.0,
+    "beta": 0.0,
+    "shape": 8.0
+  },
+  "rush": {
+    "decay": 1.0,
+    "inj": 0.5,
+    "opp": 0.0,
+    "beta": 0.5,
+    "shape": 2.0
+  },
+  "rec": {
+    "decay": 1.0,
+    "inj": 0.5,
+    "opp": 0.0,
+    "beta": 0.5,
+    "shape": 2.0
+  },
+  "recs": {
+    "decay": 1.0,
+    "inj": 0.5,
+    "opp": 0.0,
+    "beta": 0.0,
+    "shape": 2.5
+  },
+  "fit_on": "2025 weeks 4-18"
+}

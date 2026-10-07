@@ -1,0 +1,16 @@
+game_id,gameday,away,home,proj_home_margin,my_line,key_number,home_qb,away_qb,base,hfa,rest,pressure,down_leverage,coach,qb,qb_fault_sack,blitz,injuries
+2026_03_LAC_BUF,2026-09-27,LAC,BUF,10.62,BUF -10.6,near 10,Josh Allen,Justin Herbert,7.8,1.5,0.27,1.12,-0.07,0.0,0.0,-0.0,-0.0,0.0
+2026_03_CAR_CLE,2026-09-27,CAR,CLE,-2.59,CAR -2.6,near 3,Deshaun Watson,Bryce Young,-2.95,1.5,0.0,-1.15,0.01,-0.0,0.0,-0.0,-0.0,0.0
+2026_03_NYJ_DET,2026-09-27,NYJ,DET,9.08,DET -9.1,,Jared Goff,Geno Smith,6.96,1.5,0.27,0.42,-0.06,-0.0,0.0,-0.0,0.0,0.0
+2026_03_HOU_IND,2026-09-27,HOU,IND,-0.04,HOU -0.0,,Daniel Jones,C.J. Stroud,-0.2,1.5,0.0,-1.31,-0.03,-0.0,0.0,-0.0,0.0,0.0
+2026_03_NE_JAX,2026-09-27,NE,JAX,1.02,JAX -1.0,,Trevor Lawrence,Drake Maye,-0.1,1.5,0.0,-0.43,0.05,-0.0,0.0,-0.0,0.0,0.0
+2026_03_KC_MIA,2026-09-27,KC,MIA,-5.42,KC -5.4,near 6,Malik Willis,Patrick Mahomes,-5.62,1.5,0.0,-1.33,0.03,-0.0,0.0,-0.0,0.0,0.0
+2026_03_TEN_NYG,2026-09-27,TEN,NYG,2.96,NYG -3.0,ON 3,Jameis Winston,Cam Ward,2.44,1.5,-0.09,-0.86,-0.03,0.0,0.0,0.0,-0.0,0.0
+2026_03_CIN_PIT,2026-09-27,CIN,PIT,0.78,PIT -0.8,,Aaron Rodgers,Joe Burrow,-1.61,1.5,0.0,0.88,0.02,0.0,0.0,0.0,0.0,0.0
+2026_03_SEA_WAS,2026-09-27,SEA,WAS,-3.53,SEA -3.5,near 3,Jayden Daniels,Drew Lock,-5.17,1.5,0.0,0.19,-0.05,0.0,0.0,-0.0,0.0,0.0
+2026_03_ARI_SF,2026-09-27,ARI,SF,9.83,SF -9.8,ON 10,Brock Purdy,Jacoby Brissett,6.42,1.5,0.0,1.97,-0.07,-0.0,0.0,0.0,-0.0,0.0
+2026_03_MIN_TB,2026-09-27,MIN,TB,-0.92,MIN -0.9,,Baker Mayfield,Kyler Murray,-0.55,1.5,0.0,-0.96,-0.01,0.0,-0.9,-0.0,0.0,0.0
+2026_03_BAL_DAL,2026-09-27,BAL,DAL,-3.85,BAL -3.8,ON 4,Dak Prescott,Lamar Jackson,-3.88,0.0,0.0,0.7,-0.01,0.0,0.0,-0.0,0.0,-0.65
+2026_03_LV_NO,2026-09-27,LV,NO,4.88,NO -4.9,,Tyler Shough,Kirk Cousins,3.56,1.5,0.0,-0.19,0.0,0.0,0.0,0.0,-0.0,0.0
+2026_03_LA_DEN,2026-09-27,LA,DEN,-1.06,LA -1.1,,Bo Nix,Matthew Stafford,-2.6,1.5,0.09,0.01,-0.06,-0.0,0.0,-0.0,-0.0,0.0
+2026_03_PHI_CHI,2026-09-28,PHI,CHI,2.05,CHI -2.0,,Case Keenum,Jalen Hurts,0.68,1.5,0.0,-0.02,0.1,0.0,-0.21,0.0,-0.0,0.0
